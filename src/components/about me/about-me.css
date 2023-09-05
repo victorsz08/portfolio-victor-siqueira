@@ -1,0 +1,46 @@
+.about-container {
+    background-color: #181818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    color: #FFF;
+    height: 100vh;
+}
+
+.about-container .about-me-title  {
+    font-size: 4rem;
+    display: flex;
+    margin: 2.2rem 0;
+}
+
+.about-container .about-me-title .color {
+    color: #7D02B7;
+}
+
+.about-container .about-me-title h1 {
+    margin: 0 1rem 0 0;
+}
+
+.about-container .info-container p{
+    margin:  1.2rem 0;
+}
+
+.about-container .info-container .skills {
+    margin: 3rem 0;
+}
+
+.about-container .info-container .skills .icons {
+    margin: 3rem 0;
+}
+
+.about-container .info-container .skills .icons svg {
+    width: 4rem;
+    height: 4rem;
+    margin: .6rem ;
+}
+
+
+.about-container img {
+    width: 30rem;
+}
