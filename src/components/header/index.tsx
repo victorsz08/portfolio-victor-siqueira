@@ -10,8 +10,8 @@ const Header = () => {
             <h1 className="color">S</h1>
             </div>
             <div>
-            {options.map(option => (
-                <a>{option}</a>
+            {options.map((option, index) => (
+                <a key={index}>{option}</a>
             ))}
             </div>
         </header>

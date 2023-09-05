@@ -1,0 +1,17 @@
+.projects-container {
+    background-color: #181818;
+    color: #FFF;
+    text-align: center;
+    padding: 2rem;
+    height: 100vh;
+}
+
+.projects-container h1 {
+    font-size: 3rem;
+    margin: 2rem;
+}
+
+.projects-container .projects {
+    display: flex;
+    justify-content: center;
+}

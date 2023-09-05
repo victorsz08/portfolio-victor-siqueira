@@ -28,7 +28,7 @@ const AboutMe = () => {
                         <BiLogoReact/>
                         <BsGit/>
                         <BsGithub/>
-                        <p>Tenho conhecimento em <strong>JavaScript, Typescript, MySql, NodeJs, Express, ReactJs, Git e GitHub</strong></p>
+                        <p>Tenho conhecimento em <strong>JavaScript, Typescript, MySql, NodeJs, Express, ReactJs, Git e GitHub.</strong></p>
                     </div>
             </div>
             </section>
