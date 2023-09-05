@@ -1,0 +1,35 @@
+.home-container {
+    background-color: #181818;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #FFF;
+}
+
+.home-container .presents-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.home-container img {
+    width: 30rem;
+}
+
+.home-container div {
+    display: flex;
+}
+
+.home-container h1 {
+    font-size: 5rem;
+    margin: 0 1rem 0 0;
+}
+
+.home-container .presents-container .color {
+    color: #7D02B7;
+}
+
+.home-container .presents-container h6 {
+    font-weight: 300;
+    font-size: 1.2rem;
+}

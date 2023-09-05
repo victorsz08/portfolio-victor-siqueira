@@ -1,0 +1,23 @@
+.header-container {
+    background-color: #181818;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem;
+    position: fixed;
+    width: 100%;
+}
+
+.header-container div a {
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.header-container .logo {
+    display: flex;
+    cursor: pointer;
+}
+.header-container .logo .color {
+    color: #7D02B7;
+}
