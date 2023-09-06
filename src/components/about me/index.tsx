@@ -7,7 +7,7 @@ import { BsGit, BsGithub } from 'react-icons/bs'
 
 const AboutMe = () => {
     return (
-        <section className="about-container">
+        <section id='sobre' className="about-container">
             <section className='info-container'>
             <div className="about-me-title">
                 <h1>Sobre</h1>

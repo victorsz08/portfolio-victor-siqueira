@@ -11,7 +11,7 @@ const ContactMe = () => {
 
 
     return(
-        <section className="contact-container">
+        <section id="contato" className="contact-container">
             <h1>Contato</h1>
             <div className="info">
             <form onSubmit={submitHandle} className="form-container">
