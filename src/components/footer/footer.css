@@ -1,0 +1,23 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    color: #FFF;
+    background-color: #000;
+    align-items: center;
+    font-size: .7rem;
+}
+
+.footer-container .socials-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container .socials-container svg {
+    width: 2rem;
+    height: 2rem;
+    color: #FFF;
+    margin: 0 1rem;
+    cursor: pointer;
+}
