@@ -1,0 +1,27 @@
+.input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    color: #FFF;
+    margin: 1rem 2rem;
+    text-align: left;
+}
+
+.input-container label {
+    font-size: .7rem;
+    font-weight: 500;
+    margin-bottom: .4rem;
+}
+.input-container input {
+    background-color: #FFF;
+    color:#181818;
+    border: none;
+    border-radius: .8rem;
+    padding: 1rem .7rem;
+    width: 30rem;
+}
+
+.input-container input:focus {
+    outline: 0;
+    box-shadow: none;
+}
