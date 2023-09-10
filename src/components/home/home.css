@@ -12,6 +12,14 @@
     flex-direction: column;
 }
 
+.home-container .presents-container svg {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1rem;
+    margin-top: 1.2rem;
+    color: #FFF;
+}
+
 .home-container img {
     width: 30rem;
 }
